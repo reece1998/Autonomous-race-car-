@@ -1,3 +1,4 @@
+// Responsible for speed control
 // center aligned pwn	
 #include <MKL25Z4.H>
 #include "Servo.h"
