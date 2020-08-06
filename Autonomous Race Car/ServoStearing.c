@@ -1,3 +1,4 @@
+// Responsible for steering control
 #include <MKL25Z4.H>
 #include "Servo.h"
 #include "Motor.h"
