@@ -1,0 +1,249 @@
+svm1
+      A S-Band - 2.2
+      C FWD X-BAND - 2.2
+      None Transceiver - 2.2
+     .Net Framework - 4.0.30319.42000
+     .Net Framework Hotfixes  - None
+     Adobe Reader Version - Not Available
+     BIOS Version - American Megatrends Inc. - 0111 - 07 Jul 2016
+     Computer Manufacturer - ISIC A/S
+     Computer Model - PCM4-Q87
+     Control Panel - 1.1
+     DirectX Version - 10.0 
+     FTDI Driver - Unavailable
+     IMO Number - 9410727
+     Interswitch - 2.2
+     LabJack Driver - 1.22
+     LAN Chipset 0 Driver - Intel(R) Ethernet Connection I217-LM - 12.15.23.1
+     LAN Chipset 1 Driver - Intel(R) I210 Gigabit Network Connection - 12.13.27.0
+     Monitor - 23T14SPDCAEAABA,UXGA
+     Monitor Interface - 2C
+     Monitor Manufacturer - HD
+     Motherboard Drivers - Unavailable
+     Motherboard Memory - 4 GB of Memory
+     MotherboardProcessor - Intel(R) Core(TM) i3-4360 CPU @ 3.70GHz
+     Ownship Name - CMA CGM ANDROMEDA   
+     PCIO Compass Board - Standard
+     PCIO Firmware - 1.05
+     SC Hardware Type ECDIS1:SC3/SC4 Board 0 - 0-SC3
+     SC3 Cage Code ECDIS1:SC3/SC4 Board 0 - 3956
+     SC3 Device ID ECDIS1:SC3/SC4 Board 0 - 2577
+     SC3 Device Type ECDIS1:SC3/SC4 Board 0 - 9056
+     SC3 driver ECDIS1:SC3/SC4 Board 0 - 3.1.0.4: CB
+     SC3 firmware ECDIS1:SC3/SC4 Board 0 - ARP: 54
+     SC3 Vendor ID ECDIS1:SC3/SC4 Board 0 - 10B5
+     Security Block Provider - Aladdin eToken
+     Security Block Serial # - 008c3ef4
+     Security Block Version - 5.1.87.0
+     SevenCs ChartHandler Version - 3,3,4,0
+     SevenCs GeoSym Presentation Library Version - GeoSym Edition 2, Feb 2007 (MIL-DTL-89045A)
+     SevenCs Kernel Version - 5,22,10,0
+     SevenCs S-52 Presentation Library Version - SevenCs Presentation Library Version 4.0.1, 30.06.2015
+     SevenCs SharpCoat Version - 1.10.11.0
+     SQL Server Version - Microsoft SQL Server 2014 (SP2) (KB3171021) SP2
+     Video Card - AMD Radeon HD 5450
+     Video Driver - aticfx32.dll
+     Video Driver Version - 8.17.10.1333
+     VisionMaster FT Version - 9.0.0.390 
+     VLC Version - 1.1.11
+     Windows Service Packs - Service Pack 1
+     Windows Version - Microsoft Windows Embedded Standard 
+
+vm2
+      A S-Band - 2.2
+      None Transceiver - 2.2
+     .Net Framework - 4.0.30319.42000
+     .Net Framework Hotfixes  - None
+     Adobe Reader Version - Not Available
+     BIOS Version - Intel Corp. - KCH7710H.86A.1808.2013.0412.1829 - 12 Apr 2013
+     Computer Manufacturer - ISIC PCM4-H77 Computer
+     Computer Model - DH77KC__
+     DirectX Version - 10.0 
+     FTDI Driver - Unavailable
+     IMO Number - 9410727
+     Interswitch - 2.2
+     LabJack Driver - 1.22
+     LAN Chipset 0 Driver - Intel(R) 82579V Gigabit Network Connection - 12.15.31.4
+     Monitor - JH23T02MMD-L27,UXGA
+     Monitor Interface - 2B
+     Monitor Manufacturer - JHD
+     Motherboard Drivers - Unavailable
+     Motherboard Memory - 4 GB of Memory
+     MotherboardProcessor - Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz
+     Ownship Name - CMA CGM ANDROMEDA   
+     PCIO Compass Board - Standard
+     PCIO Firmware - 1.05
+     SC Hardware Type ECDIS2:SC3/SC4 Board 0 - 0-SC3
+     SC3 Cage Code ECDIS2:SC3/SC4 Board 0 - 3956
+     SC3 Device ID ECDIS2:SC3/SC4 Board 0 - 2577
+     SC3 Device Type ECDIS2:SC3/SC4 Board 0 - 9056
+     SC3 driver ECDIS2:SC3/SC4 Board 0 - 3.1.0.4: CB
+     SC3 firmware ECDIS2:SC3/SC4 Board 0 - ARP: 54
+     SC3 Vendor ID ECDIS2:SC3/SC4 Board 0 - 10B5
+     Security Block Provider - Aladdin eToken
+     Security Block Serial # - 001bdefd
+     Security Block Version - 5.1.87.0
+     SevenCs ChartHandler Version - 3,3,4,0
+     SevenCs GeoSym Presentation Library Version - GeoSym Edition 2, Feb 2007 (MIL-DTL-89045A)
+     SevenCs Kernel Version - 5,22,10,0
+     SevenCs S-52 Presentation Library Version - SevenCs Presentation Library Version 4.0.1, 30.06.2015
+     SevenCs SharpCoat Version - 1.10.11.0
+     SQL Server Version - Microsoft SQL Server 2014 (SP2) (KB3171021) SP2
+     Video Card - AMD Radeon HD 5450
+     Video Driver - aticfx32.dll
+     Video Driver Version - 8.17.10.1333
+     VisionMaster FT Version - 9.0.0.390 
+     VLC Version - 1.1.11
+     Windows Service Packs - Service Pack 1
+     Windows Version - Microsoft Windows Embedded Standard 
+
+vm3
+      A S-Band - 2.2
+      None Transceiver - 2.2
+     .Net Framework - 4.0.30319.42000
+     .Net Framework Hotfixes  - None
+     Adobe Reader Version - Not Available
+     BIOS Version - Intel Corp. - KCH7710H.86A.1808.2013.0412.1829 - 12 Apr 2013
+     Computer Manufacturer - ISIC PCM4-H77 Computer
+     Computer Model - DH77KC__
+     Control Panel - 1.1
+     DirectX Version - 10.0 
+     FTDI Driver - Unavailable
+     IMO Number - 9410727
+     Interswitch - 2.2
+     LabJack Driver - 1.22
+     LAN Chipset 0 Driver - Intel(R) 82579V Gigabit Network Connection - 12.15.31.4
+     Monitor - JH23T02MMD-L27, UXGA
+     Monitor Interface - 2B
+     Monitor Manufacturer - JHD
+     Motherboard Drivers - Unavailable
+     Motherboard Memory - 4 GB of Memory
+     MotherboardProcessor - Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz
+     Ownship Name - CMA CGM ANDROMEDA   
+     PCIO Compass Board - Standard
+     PCIO Firmware - 1.05
+     SC Hardware Type RADAR1:SC3/SC4 Board 0 - 0-SC3
+     SC3 Cage Code RADAR1:SC3/SC4 Board 0 - 3956
+     SC3 Device ID RADAR1:SC3/SC4 Board 0 - 2577
+     SC3 Device Type RADAR1:SC3/SC4 Board 0 - 9056
+     SC3 driver RADAR1:SC3/SC4 Board 0 - 3.1.0.4: CB
+     SC3 firmware RADAR1:SC3/SC4 Board 0 - ARP: 54
+     SC3 Vendor ID RADAR1:SC3/SC4 Board 0 - 10B5
+     Security Block Provider - Aladdin eToken
+     Security Block Serial # - 008c4b29
+     Security Block Version - 5.1.87.0
+     SevenCs ChartHandler Version - 3,3,4,0
+     SevenCs GeoSym Presentation Library Version - GeoSym Edition 2, Feb 2007 (MIL-DTL-89045A)
+     SevenCs Kernel Version - 5,22,10,0
+     SevenCs S-52 Presentation Library Version - SevenCs Presentation Library Version 4.0.1, 30.06.2015
+     SevenCs SharpCoat Version - 1.10.11.0
+     SQL Server Version - Microsoft SQL Server 2014 (SP2) (KB3171021) SP2
+     Video Card - AMD Radeon HD 5450
+     Video Driver - aticfx32.dll
+     Video Driver Version - 8.17.10.1333
+     VisionMaster FT Version - 9.0.0.390 
+     VLC Version - 1.1.11
+     Windows Service Packs - Service Pack 1
+     Windows Version - Microsoft Windows Embedded Standard 
+
+vm4
+      A S-Band - 2.2
+      B X-BAND - 2.2
+      C FWD X-BAND - 2.2
+      None Transceiver - 2.2
+     .Net Framework - 4.0.30319.42000
+     .Net Framework Hotfixes  - None
+     Adobe Reader Version - Not Available
+     BIOS Version - American Megatrends Inc. - 0111 - 07 Jul 2016
+     Computer Manufacturer - ISIC A/S
+     Computer Model - PCM4-Q87
+     Control Panel - 1.1
+     DirectX Version - 10.0 
+     FTDI Driver - Unavailable
+     IMO Number - 9410727
+     Interswitch - 2.2
+     LabJack Driver - 1.22
+     LAN Chipset 0 Driver - Intel(R) Ethernet Connection I217-LM - 12.15.23.1
+     LAN Chipset 1 Driver - Intel(R) I210 Gigabit Network Connection - 12.13.27.0
+     Monitor - JH23T02MMD-L27,UXGA
+     Monitor Interface - 2B
+     Monitor Manufacturer - JHD
+     Motherboard Drivers - Unavailable
+     Motherboard Memory - 4 GB of Memory
+     MotherboardProcessor - Intel(R) Core(TM) i3-4360 CPU @ 3.70GHz
+     Ownship Name - CMA CGM ANDROMEDA   
+     PCIO Compass Board - Standard
+     PCIO Firmware - 1.05
+     SC Hardware Type RADAR2:SC3/SC4 Board 0 - 0-SC3
+     SC3 Cage Code RADAR2:SC3/SC4 Board 0 - 3956
+     SC3 Device ID RADAR2:SC3/SC4 Board 0 - 2577
+     SC3 Device Type RADAR2:SC3/SC4 Board 0 - 9056
+     SC3 driver RADAR2:SC3/SC4 Board 0 - 3.1.0.4: CB
+     SC3 firmware RADAR2:SC3/SC4 Board 0 - ARP: 54
+     SC3 Vendor ID RADAR2:SC3/SC4 Board 0 - 10B5
+     Security Block Provider - Aladdin eToken
+     Security Block Serial # - 008c468f
+     Security Block Version - 5.1.87.0
+     SevenCs ChartHandler Version - 3,3,4,0
+     SevenCs GeoSym Presentation Library Version - GeoSym Edition 2, Feb 2007 (MIL-DTL-89045A)
+     SevenCs Kernel Version - 5,22,10,0
+     SevenCs S-52 Presentation Library Version - SevenCs Presentation Library Version 4.0.1, 30.06.2015
+     SevenCs SharpCoat Version - 1.10.11.0
+     SQL Server Version - Microsoft SQL Server 2014 (SP2) (KB3171021) SP2
+     Video Card - AMD Radeon HD 5450
+     Video Driver - aticfx32.dll
+     Video Driver Version - 8.17.10.1333
+     VisionMaster FT Version - 9.0.0.390 
+     VLC Version - 1.1.11
+     Windows Service Packs - Service Pack 1
+     Windows Version - Microsoft Windows Embedded Standard 
+
+vm5 (This Node)
+      A S-Band - 2.2
+      B X-BAND - 2.2
+      None Transceiver - 2.2
+     .Net Framework - 4.0.30319.42000
+     .Net Framework Hotfixes  - None
+     Adobe Reader Version - Not Available
+     BIOS Version - American Megatrends Inc. - 0111 - 07 Jul 2016
+     Computer Manufacturer - ISIC A/S
+     Computer Model - PCM4-Q87
+     DirectX Version - 10.0 
+     FTDI Driver - Unavailable
+     IMO Number - 9410727
+     Interswitch - 2.2
+     LabJack Driver - 1.22
+     LAN Chipset 0 Driver - Intel(R) Ethernet Connection I217-LM - 12.15.23.1
+     LAN Chipset 1 Driver - Intel(R) I210 Gigabit Network Connection - 12.13.27.0
+     Monitor - 65926L-3A
+     Monitor Interface - 1D
+     Monitor Manufacturer - ISIC
+     Motherboard Drivers - Unavailable
+     Motherboard Memory - 4 GB of Memory
+     MotherboardProcessor - Intel(R) Core(TM) i3-4360 CPU @ 3.70GHz
+     Ownship Name - CMA CGM ANDROMEDA   
+     PCIO Compass Board - Standard
+     PCIO Firmware - 1.05
+     SC Hardware Type ECDIS3:SC3/SC4 Board 0 - 0-SC3
+     SC3 Cage Code ECDIS3:SC3/SC4 Board 0 - 3956
+     SC3 Device ID ECDIS3:SC3/SC4 Board 0 - 2577
+     SC3 Device Type ECDIS3:SC3/SC4 Board 0 - 9056
+     SC3 driver ECDIS3:SC3/SC4 Board 0 - 3.1.0.4: CB
+     SC3 firmware ECDIS3:SC3/SC4 Board 0 - ARP: 54
+     SC3 Vendor ID ECDIS3:SC3/SC4 Board 0 - 10B5
+     Security Block Provider - Aladdin eToken
+     Security Block Serial # - 008c4a17
+     Security Block Version - 5.1.87.0
+     SevenCs ChartHandler Version - 3,3,4,0
+     SevenCs GeoSym Presentation Library Version - GeoSym Edition 2, Feb 2007 (MIL-DTL-89045A)
+     SevenCs Kernel Version - 5,22,10,0
+     SevenCs S-52 Presentation Library Version - SevenCs Presentation Library Version 4.0.1, 30.06.2015
+     SevenCs SharpCoat Version - 1.10.11.0
+     SQL Server Version - Microsoft SQL Server 2014 (SP2) (KB3171021) SP2
+     Video Card - NVIDIA GeForce GT 710
+     Video Driver - nvd3dum.dll
+     Video Driver Version - 21.21.13.7306
+     VisionMaster FT Version - 9.0.0.390 
+     VLC Version - 1.1.11
+     Windows Service Packs - Service Pack 1
+     Windows Version - Microsoft Windows Embedded Standard 
